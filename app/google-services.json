@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:714271758587:android:6701ee4ed6b9045353b85e",
         "android_client_info": {
-          "package_name": "com.example.chatapp"
+          "package_name": "com.SchoolHub.chatpp"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "714271758587-fsue9f805hhp54bkpa3h5jhgvbovr139.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.chatapp",
+            "package_name": "com.SchoolHub.chatpp",
             "certificate_hash": "e32bb730f2d809c0e057fde2ddf3f673c53ebd99"
           }
         },

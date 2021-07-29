@@ -1,4 +1,4 @@
-package com.example.chatapp;
+package com.SchoolHub.chatpp;
 
 import android.content.DialogInterface;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.example.chatapp;
+package com.SchoolHub.chatpp;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;

@@ -1,4 +1,4 @@
-package com.example.chatapp;
+package com.SchoolHub.chatpp;
 
 public class Messages {
     private String from,message,type,to,messageID,time,date,name;
