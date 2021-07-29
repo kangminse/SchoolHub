@@ -25,7 +25,7 @@ Don't Forget to <a href="https://www.youtube.com/channel/UCV8auqEr_jx606MqyeyIPp
 - User send request then receiver get notification (Using Node Js)
 
 ## Images:
-![11](https://user-images.githubusercontent.com/52067673/83349772-fe76cb80-a354-11ea-9114-f5481930dd33.PNG)
+![11](https://github.com/kangminse/SchoolHub/tree/main/img/test.jpg)
 
 ![12](https://user-images.githubusercontent.com/52067673/83349968-3a5e6080-a356-11ea-8b04-73bb9d48496f.PNG)
 
