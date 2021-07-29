@@ -1,4 +1,4 @@
-# ChatApp
+# SchoolHub
 It is an open-source app with real-time messaging using Firebase and Node Js.
 
 #### Note: I am working on a new version Android Studio 3.6
